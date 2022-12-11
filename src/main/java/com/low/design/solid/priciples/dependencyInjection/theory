@@ -1,0 +1,6 @@
+Dependency Inversion  Principle:
+ 1) High level modules should not depend upon low-level modules; they should depend on abstractions
+ 2) Separate implementations from abstractions
+ 3) Makes mandatory approach to code to abstractions/interfaces
+ 4) Let's us forget about who will construct/instantiate the dependency
+ 5) Improves code maintaining and helps unit testing much simpler to do
