@@ -1,0 +1,5 @@
+Liskov Substitution Principle,
+ 1) Any Sub class or child class should be completely replaceable with it parent class ans still code
+    should work as it was working with parent class
+
+2) Liskov Substitution can not be followed every time
