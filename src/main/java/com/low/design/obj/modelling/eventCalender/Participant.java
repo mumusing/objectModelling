@@ -1,6 +1,6 @@
 package com.low.design.obj.modelling.eventCalender;
 
-public class Participant extends BaseEntity{
+public abstract class Participant extends BaseEntity{
 
     protected String name;
 
