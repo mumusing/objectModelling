@@ -1,0 +1,15 @@
+Strategy Design Pattern:
+1) Use different variants of an algorithum within an object and be able to switch from one algorithum
+   to another during runtime
+
+2) Strategy pattern is also known as Policy Pattern
+
+3) Strategy pattern is behavioural pattern
+
+4) Use to change behaviour at the run time
+
+Strategy Pattern: Declares a method the context uses to execute a strategy
+
+Context: The context maintains a reference to one of the concrete strategies
+
+Concrete Strategy: Concrete Strategies implement different variations of an algorithm the context uses

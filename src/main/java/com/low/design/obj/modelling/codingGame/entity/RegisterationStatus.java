@@ -1,5 +1,5 @@
 package com.low.design.obj.modelling.codingGame.entity;
 
-public enum RegistrationStatus {
+public enum RegisterationStatus {
     REGISTERED, NOT_REGISTERED
 }
