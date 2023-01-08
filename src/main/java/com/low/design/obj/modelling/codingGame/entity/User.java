@@ -42,8 +42,8 @@ public class User extends BaseEntity {
         return score;
     }
 
-    public void addContest() {
-
+    public void addContest(Contest contest) {
+        contests.add(contest);
     }
 
     public void deleteContest(Contest contest) {
