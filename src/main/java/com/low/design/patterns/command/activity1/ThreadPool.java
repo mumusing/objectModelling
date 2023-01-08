@@ -1,4 +1,4 @@
-package com.low.design.patterns.command.notes;
+package com.low.design.patterns.command.activity1;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
